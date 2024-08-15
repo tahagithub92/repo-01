@@ -1,2 +1,3 @@
 # repo-01
-Storing file 
+Updating file 
+Make new changes git commands
